@@ -1,0 +1,1 @@
+package Entity;public record EntityWithAmount(String entity, Double amount){}
